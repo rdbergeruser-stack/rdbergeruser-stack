@@ -7,7 +7,7 @@
   <a href="mailto:rdberger.user@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires,_AR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Ubicación-Paraná,_Entre_Ríos-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
 Desarrollador enfocado en el ecosistema **TypeScript, JavaScript, React y React Native**. Me apasiona crear aplicaciones interactivas, resolver problemas de arquitectura y construir experiencias de usuario sólidas y cuidadas.
@@ -77,4 +77,4 @@ Actualmente estudio la carrera de Sistemas en el **Instituto de Formación Técn
 
 * 💼 **LinkedIn:** [linkedin.com/in/rodrigo-berger](https://www.linkedin.com/in/rodrigo-berger/)
 * 📧 **Email:** [rdberger.user@gmail.com](mailto:rdberger.user@gmail.com)
-* 📍 **Ubicación:** Buenos Aires, Argentina
+* 📍 **Ubicación:** Paraná, Entre Ríos, Argentina
