@@ -25,7 +25,7 @@ Actualmente estudio la carrera de Sistemas en el **Instituto de Formación Técn
       <p>Sitio oficial de agenda y actividades para la ciudad. Desarrollo de solución a medida y <b>plugin propio en WordPress</b> para organizar y visualizar eventos en un carrusel dinámico, accesible y sin sobrecarga visual.</p>
       <p><b>Stack:</b> WordPress, PHP, JavaScript, CSS3.</p>
       <p align="center">
-        <a href="https://www.agenda.santafeciudad.gov.ar" target="_blank">🌐 <b>Sitio en Vivo</b></a>
+        <a href="https://agenda.santafeciudad.gov.ar/" target="_blank">🌐 <b>Sitio en Vivo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
